@@ -1,0 +1,6 @@
+nemchenkoe2005
+kp5NoBUPYpfkkkvN
+
+
+
+mongodb+srv://nemchenkoe2005:kp5NoBUPYpfkkkvN@cluster0.agqvgtr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
