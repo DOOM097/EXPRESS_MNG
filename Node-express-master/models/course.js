@@ -9,7 +9,11 @@ const courseSchema = new Schema({
     type: Number,
     required: true
   },
-  img: String
-}, { versionKey: false }); // Устанавливаем опцию versionKey в false
+  img: String,
+  description: { 
+    type: String,
+    required: true
+  }
+}, { versionKey: false });  
 
 module.exports = model('Course', courseSchema);
